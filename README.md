@@ -1,4 +1,4 @@
-# AWS [Elastic Container Service Fargate](https://aws.amazon.com/fargate/) with [Terraform](https://www.terraform.io/)
+# Deploying [Docker](https://www.docker.com/) container on AWS [Fargate](https://aws.amazon.com/fargate/) with [Terraform](https://www.terraform.io/)
 
 Init:
 
